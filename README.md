@@ -5,7 +5,7 @@
 
 
 ## PancakeSwap Prediction v0.2 :heavy_check_mark: | [Dogebets.gg](https://dogebets.gg/) Prediction :heavy_check_mark:
-  ![gitico](https://github.com/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT/blob/main/icon.ico)
+  ![gitico](https://user-images.githubusercontent.com/85583249/155407175-7fa0e06f-7679-4918-b6e6-ad079b75019a.png)
 ![image](https://img.shields.io/github/issues/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/github/forks/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/github/stars/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
