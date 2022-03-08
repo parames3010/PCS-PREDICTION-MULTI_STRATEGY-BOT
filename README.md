@@ -18,7 +18,7 @@
 
 Clone or Download this repository, turn on your venv active and install the requirements with:
 
-```pip install -r requirements```
+```pip install -r requirements.txt```
 
 Run with
 
