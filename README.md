@@ -6,10 +6,10 @@
 
 ## PancakeSwap Prediction v0.2 :heavy_check_mark: | [Dogebets.gg](https://dogebets.gg/) Prediction :heavy_check_mark:
   ![gitico](https://user-images.githubusercontent.com/85583249/155407175-7fa0e06f-7679-4918-b6e6-ad079b75019a.png)
-![image](https://img.shields.io/github/issues/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT)
-![image](https://img.shields.io/github/forks/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT)
-![image](https://img.shields.io/github/stars/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT)
-![image](https://img.shields.io/github/license/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT)
+![image](https://img.shields.io/github/issues/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
+![image](https://img.shields.io/github/forks/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
+![image](https://img.shields.io/github/stars/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
+![image](https://img.shields.io/github/license/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/badge/python-3.8.10-brightgreen)
   
 ![image](https://user-images.githubusercontent.com/85583249/155422019-0f044c3f-8837-4279-9e5d-089bb3c9ad8c.png)
