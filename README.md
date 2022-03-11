@@ -18,7 +18,7 @@
 
 Clone or Download this repository, turn on your venv active and install the requirements with:
 
-```pip install -r requirements.txt```
+```pip install -r requirements```
 
 Run with
 
@@ -75,12 +75,12 @@ You get 8 different strategies to choose:
 
 
 ## Disclaimer 
-
 I strong recomend that you follow all the security instructions stated in this file and use only this github repository as source! I can not guarantee the security of other forks/sources.
 
 I can not guarantee that you will loose or make money. Please, do your risk manegement properly.
 
-*This bot takes a tax comission of 2% over profits (only). The goal here is to be profitable to it's users by improving our strategies and user experience constantly. Join our telegram group for cash-backs and NFT giveaways. Please do not use it if you don't agree with the tax and goals, the repository is free @ MIT-license and one can create your own version.
+*This bot takes a tax comission of 2% over profits (only). The goal here is to be profitable to it's users by improving our strategies and user experience constantly. Please do not use it if you don't agree with the tax and goals, the repository is free @ MIT-license and one can create your own version.
+
 
 Good Luck!
 
