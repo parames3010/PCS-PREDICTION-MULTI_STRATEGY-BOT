@@ -80,7 +80,10 @@ I strong recomend that you follow all the security instructions stated in this f
 I can not guarantee that you will loose or make money. Please, do your risk manegement properly.
 
 *This bot takes a tax comission of 2% over profits (only). The goal here is to be profitable to it's users by improving our strategies and user experience constantly. Please do not use it if you don't agree with the tax and goals, the repository is free @ MIT-license and one can create your own version.
+<<<<<<< HEAD
 
+=======
+>>>>>>> afe34118893e995166887e41e013a876ccb42f55
 
 Good Luck!
 
