@@ -4,17 +4,17 @@
 
 
 
-## PancakeSwap Prediction v0.3 :heavy_check_mark: | [Dogebets.gg](https://dogebets.gg/) Prediction :heavy_check_mark:
+## PancakeSwap Prediction v0.3.1 :heavy_check_mark: | [Dogebets.gg](https://dogebets.gg/) Prediction :heavy_check_mark:
   ![gitico](https://user-images.githubusercontent.com/85583249/155407175-7fa0e06f-7679-4918-b6e6-ad079b75019a.png)
 ![image](https://img.shields.io/github/issues/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/github/forks/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/github/stars/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/github/license/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT)
 ![image](https://img.shields.io/badge/python-3.8.10-brightgreen)
- ![GitHub all releases](https://img.shields.io/github/downloads/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT/total)
- ![GitHub release (by tag)](https://img.shields.io/github/downloads/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT/v0.3.0/total)
+ ![GitHub all releases](https://img.shields.io/github/downloads/parames3010/PCS-PREDICTION-MULTI_STRATEGY-BOT/total)
   
 ![image](https://user-images.githubusercontent.com/85583249/157816513-4eff4b12-d24c-41df-8a1f-a4f51a904cb5.png)
+
 
 ## Running from source (linux/windows/other OS's)
 
@@ -106,8 +106,6 @@ Tip: In our telegram group you can read backtests
  
 
 ## Disclaimer 
-
-I strong recomend that you follow all the security instructions stated in this file and use only this github repository as source! I can not guarantee the security of other forks/sources.
 
 I can not guarantee that you will loose or make money. Please, do your risk manegement properly.
 
